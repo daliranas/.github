@@ -69,8 +69,8 @@ Voici les technologies et outils que j'utilise au quotidien pour former et bâti
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_GITHUB&show_icons=true&theme=radical&locale=fr" alt="Bastien GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_GITHUB&layout=compact&theme=radical&locale=fr" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daliranas&show_icons=true&theme=radical&locale=fr" alt="Bastien GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliranas&layout=compact&theme=radical&locale=fr" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
