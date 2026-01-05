@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Bastien%20LANGUEDOC&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Calilmadia%20%26%20Daliranas&descAlignY=55&descAlign=50" alt="Header Bastien" />
-
   ### 👨‍🏫 Formateur en Informatique | ☁️ Ingénieur Systèmes, Réseaux & Cloud
 
   <br/>
