@@ -14,7 +14,7 @@
   <a href="mailto:calilmadia@languedoc.ovh">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://languedoc.ovh">
+  <a href="[https://languedoc.ovh](https://www.bastivan.consulting/)">
     <img src="https://img.shields.io/badge/Bastivan_Consulting-102A43?style=for-the-badge&logo=ui-path&logoColor=white" />
   </a>
 
