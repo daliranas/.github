@@ -1,7 +1,7 @@
 <div align="center">
 
   ### 👑 Président & Fondateur de Bastivan Consulting
-  ### 👨‍🏫 Formateur Expert | ☁️ Ingénieur Systèmes & Cloud
+  ### 👨‍🏫 Formateur Informatique | ☁️ Ingénieur Systèmes & Cloud
 
   <br/>
 
